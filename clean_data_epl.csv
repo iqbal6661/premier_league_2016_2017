@@ -1,0 +1,462 @@
+name,club,age,position,position_cat,market_value,page_views,fpl_value,fpl_sel,fpl_points,region,nationality
+Alexis Sanchez,Arsenal,28,LW,attacker,65.0,4329,12.0,17.10%,264,Americas,Chile
+Mesut Ozil,Arsenal,28,AM,attacker,50.0,4395,9.5,5.60%,167,EU,Germany
+Petr Cech,Arsenal,35,GK,goalkeeper,7.0,1529,5.5,5.90%,134,EU,Czech Republic
+Theo Walcott,Arsenal,28,RW,attacker,20.0,2393,7.5,1.50%,122,England,England
+Laurent Koscielny,Arsenal,31,CB,defender,22.0,912,6.0,0.70%,121,EU,France
+Hector Bellerin,Arsenal,22,RB,defender,30.0,1675,6.0,13.70%,119,EU,Spain
+Olivier Giroud,Arsenal,30,CF,attacker,22.0,2230,8.5,2.50%,116,EU,France
+Nacho Monreal,Arsenal,31,LB,defender,13.0,555,5.5,4.70%,115,EU,Spain
+Shkodran Mustafi,Arsenal,25,CB,defender,30.0,1877,5.5,4.00%,90,EU,Germany
+Alex Iwobi,Arsenal,21,LW,attacker,10.0,1812,5.5,1.00%,89,Rest Of World,Nigeria
+Granit Xhaka,Arsenal,24,DM,midfielder,35.0,1815,5.5,2.00%,85,EU,Switzerland
+Alex Oxlade-Chamberlain,Arsenal,23,RM,midfielder,22.0,1519,6.0,1.80%,83,England,England
+Jack Wilshere,Arsenal,25,CM,midfielder,18.0,1759,5.5,0.00%,61,England,England
+Aaron Ramsey,Arsenal,26,CM,midfielder,35.0,1040,7.0,5.10%,56,England,Wales
+Francis Coquelin,Arsenal,26,DM,midfielder,15.0,549,4.5,1.70%,52,EU,France
+Gabriel Paulista,Arsenal,26,CB,defender,13.0,552,5.0,0.10%,45,Americas,Brazil
+Kieran Gibbs,Arsenal,27,LB,defender,10.0,489,5.0,0.50%,45,England,England
+Santi Cazorla,Arsenal,32,CM,midfielder,12.0,943,7.0,0.10%,38,EU,Spain
+Danny Welbeck,Arsenal,26,CF,attacker,15.0,1521,7.5,0.50%,37,England,England
+Rob Holding,Arsenal,21,CB,defender,7.0,666,5.0,1.70%,32,England,England
+Mohamed Elneny,Arsenal,25,DM,midfielder,10.0,683,4.5,0.80%,26,Rest Of World,Egypt
+Lucas Perez,Arsenal,28,CF,attacker,15.0,2055,7.5,0.10%,20,EU,Spain
+Emiliano Martinez,Arsenal,24,GK,goalkeeper,1.0,372,4.0,4.20%,8,Americas,Argentina
+David Ospina,Arsenal,28,GK,goalkeeper,7.0,544,5.0,0.20%,2,Americas,Colombia
+Carl Jenkinson,Arsenal,25,RB,defender,5.0,561,4.5,0.40%,2,England,England
+Per Mertesacker,Arsenal,32,CB,defender,6.0,702,5.0,1.00%,1,EU,Germany
+Sead Kolasinac,Arsenal,24,LB,defender,15.0,618,6.0,6.90%,0,EU,Bosnia
+Alexandre Lacazette,Arsenal,26,CF,attacker,40.0,1183,10.5,26.50%,0,EU,France
+Joshua King,Bournemouth,25,SS,attacker,8.0,997,7.5,10.40%,178,EU,Norway
+Jermain Defoe,Bournemouth,34,CF,attacker,5.0,3213,8.0,15.00%,166,England,England
+Charlie Daniels,Bournemouth,30,LB,defender,3.0,185,5.0,19.80%,134,England,England
+Artur Boruc,Bournemouth,37,GK,goalkeeper,1.0,436,4.5,6.90%,120,EU,Poland
+Steve Cook,Bournemouth,26,CB,defender,5.0,184,5.0,2.00%,112,England,England
+Junior Stanislas,Bournemouth,27,LW,attacker,4.5,315,6.0,0.60%,107,England,England
+Adam Smith,Bournemouth,26,RB,defender,5.0,200,5.0,0.90%,104,England,England
+Ryan Fraser,Bournemouth,23,LW,attacker,5.0,516,5.5,1.60%,100,EU,Scotland
+Simon Francis,Bournemouth,32,RB,defender,2.5,167,4.5,4.00%,89,England,England
+Benik Afobe,Bournemouth,24,CF,attacker,10.0,528,6.0,0.70%,88,Rest Of World,Congo DR
+Harry Arter,Bournemouth,27,CM,midfielder,2.5,666,5.0,0.90%,84,EU,Ireland
+Marc Pugh,Bournemouth,30,LW,attacker,2.0,140,5.0,0.10%,64,England,England
+Callum Wilson,Bournemouth,25,CF,attacker,10.0,337,6.0,0.20%,63,England,England
+Nathan Ake,Bournemouth,22,CB,defender,8.0,1274,5.0,11.50%,55,EU,Netherlands
+Dan Gosling,Bournemouth,27,CM,midfielder,3.0,184,5.0,0.10%,49,England,England
+Andrew Surman,Bournemouth,30,CM,midfielder,2.0,154,4.5,1.10%,44,England,England
+Jordon Ibe,Bournemouth,21,RW,attacker,8.0,504,5.0,0.40%,36,England,England
+Lewis Cook,Bournemouth,20,CM,midfielder,6.0,243,4.5,0.80%,17,England,England
+Lys Mousset,Bournemouth,21,CF,attacker,4.0,131,5.0,0.10%,14,EU,France
+Adam Federici,Bournemouth,32,GK,goalkeeper,1.0,126,4.0,1.50%,8,Rest Of World,Australia
+Max Gradel,Bournemouth,29,LW,attacker,7.0,287,5.0,0.10%,8,Rest Of World,Cote d'Ivoire
+Tyrone Mings,Bournemouth,24,CB,defender,5.0,422,4.5,0.40%,4,England,England
+Brad Smith,Bournemouth,23,LB,defender,2.0,297,4.0,3.30%,4,Rest Of World,Australia
+Asmir Begovic,Bournemouth,30,GK,goalkeeper,8.0,697,4.5,9.30%,2,EU,Bosnia
+Niki Maenpaa,Brighton+and+Hove,32,GK,goalkeeper,0.25,103,4.0,2.10%,0,EU,Finland
+Mathew Ryan,Brighton+and+Hove,25,GK,goalkeeper,3.5,344,4.5,1.50%,0,Rest Of World,Australia
+Lewis Dunk,Brighton+and+Hove,25,CB,defender,5.0,140,4.5,4.10%,0,England,England
+Shane Duffy,Brighton+and+Hove,25,CB,defender,5.0,243,4.5,0.60%,0,EU,Ireland
+Uwe Hunemeier,Brighton+and+Hove,31,CB,defender,1.5,88,4.0,8.00%,0,EU,Germany
+Bruno,Brighton+and+Hove,36,RB,attacker,0.5,215,4.5,0.40%,0,Americas,Argentina
+Gaetan Bong,Brighton+and+Hove,29,LB,defender,1.5,97,4.5,0.20%,0,Rest Of World,Cameroon
+Liam Rosenior,Brighton+and+Hove,33,RB,defender,1.0,132,4.0,3.20%,0,England,England
+Connor Goldson,Brighton+and+Hove,24,CB,defender,0.75,52,4.0,0.80%,0,England,England
+Markus Suttner,Brighton+and+Hove,30,LB,defender,2.0,23,4.5,0.20%,0,EU,Austria
+Anthony Knockaert,Brighton+and+Hove,25,RW,attacker,8.0,726,6.0,4.80%,0,EU,France
+Dale Stephens,Brighton+and+Hove,27,CM,midfielder,5.0,122,4.5,0.90%,0,England,England
+Beram Kayal,Brighton+and+Hove,29,CM,midfielder,1.25,167,4.5,0.30%,0,Rest Of World,Israel
+Steve Sidwell,Brighton+and+Hove,34,CM,midfielder,1.0,461,4.5,0.60%,0,England,England
+Solly March,Brighton+and+Hove,23,RM,midfielder,0.5,139,5.0,0.20%,0,England,England
+Jiri Skalak,Brighton+and+Hove,25,LW,attacker,1.5,87,5.0,0.10%,0,EU,Czech Republic
+Oliver Norwood,Brighton+and+Hove,26,CM,midfielder,2.5,134,4.5,0.20%,0,EU,Northern Ireland
+Jamie Murphy,Brighton+and+Hove,27,LW,attacker,1.75,114,5.0,0.10%,0,EU,Scotland
+Pascal Gross,Brighton+and+Hove,26,CM,midfielder,4.0,22,5.5,0.30%,0,EU,Germany
+Glenn Murray,Brighton+and+Hove,33,CF,attacker,3.5,496,6.0,1.30%,0,England,England
+Tomer Hemed,Brighton+and+Hove,30,CF,attacker,2.5,253,5.0,0.40%,0,Rest Of World,Israel
+Sam Baldock,Brighton+and+Hove,28,CF,attacker,3.0,204,5.0,0.20%,0,England,England
+Tom Heaton,Burnley,31,GK,goalkeeper,4.0,717,5.0,13.50%,149,England,England
+Sam Vokes,Burnley,27,CF,attacker,4.5,290,6.0,2.90%,121,EU,Wales
+Andre Gray,Burnley,26,CF,attacker,10.0,687,6.5,1.70%,108,England,England
+Ben Mee,Burnley,27,CB,defender,6.0,166,4.5,13.70%,94,England,England
+Stephen Ward,Burnley,31,LB,defender,1.5,152,4.5,2.50%,91,EU,Ireland
+Matthew Lowton,Burnley,28,RB,defender,2.5,121,4.5,1.20%,90,England,England
+Ashley Barnes,Burnley,27,CF,attacker,2.5,287,5.5,1.20%,81,England,England
+Jeff Hendrick,Burnley,25,CM,midfielder,6.0,352,5.5,0.20%,76,EU,Ireland
+Scott Arfield,Burnley,28,LM,midfielder,3.0,304,5.0,0.10%,69,Americas,Canada
+Steven Defour,Burnley,29,CM,midfielder,6.0,336,5.5,0.20%,54,EU,Belgium
+Dean Marney,Burnley,33,CM,midfielder,1.0,171,4.5,0.00%,51,England,England
+Jack Cork,Burnley,28,DM,midfielder,5.0,204,4.5,0.50%,50,England,England
+Johann Berg Gudmundsson,Burnley,26,RW,attacker,2.5,180,5.0,0.10%,47,EU,Iceland
+Robbie Brady,Burnley,25,LM,midfielder,10.0,614,5.5,0.40%,39,EU,Ireland
+James Tarkowski,Burnley,24,CB,defender,2.0,116,4.5,0.10%,23,England,England
+Ashley Westwood,Burnley,27,DM,midfielder,4.0,161,4.5,0.10%,13,England,England
+Kevin Long,Burnley,26,CB,defender,0.5,68,4.0,1.70%,3,EU,Ireland
+Matthew Taylor,Burnley,35,LM,midfielder,0.25,255,4.5,0.40%,0,England,England
+Eden Hazard,Chelsea,26,LW,attacker,75.0,4220,10.5,2.30%,224,EU,Belgium
+Diego Costa,Chelsea,28,CF,attacker,50.0,4454,10.0,3.00%,196,EU,Spain
+Gary Cahill,Chelsea,31,CB,defender,16.0,1420,6.5,12.00%,178,England,England
+Marcos Alonso Mendoza,Chelsea,26,LB,defender,25.0,3069,7.0,12.40%,177,EU,Spain
+Cesar Azpilicueta,Chelsea,27,RB,defender,30.0,869,6.5,12.30%,170,EU,Spain
+Pedro,Chelsea,29,RW,attacker,28.0,1500,8.0,7.80%,162,EU,Spain
+Thibaut Courtois,Chelsea,25,GK,goalkeeper,40.0,1260,5.5,18.50%,141,EU,Belgium
+David Luiz,Chelsea,30,CB,defender,30.0,2745,6.0,20.30%,132,Americas,Brazil
+Cesc Fabregas,Chelsea,30,CM,midfielder,35.0,2378,7.0,7.50%,121,EU,Spain
+Willian,Chelsea,28,RW,attacker,32.0,1165,7.0,9.00%,114,Americas,Brazil
+Victor Moses,Chelsea,26,RM,midfielder,18.0,2537,6.5,0.20%,105,Rest Of World,Nigeria
+Nemanja Matic,Chelsea,28,DM,midfielder,35.0,892,5.0,5.00%,105,EU,Serbia
+NGolo Kante,Chelsea,26,DM,midfielder,50.0,4042,5.0,13.80%,83,EU,France
+Willy Caballero,Chelsea,35,GK,goalkeeper,1.5,542,5.0,0.20%,64,Americas,Argentina
+Michy Batshuayi,Chelsea,23,CF,attacker,25.0,1162,8.5,1.60%,48,EU,Belgium
+Kurt Zouma,Chelsea,22,CB,defender,15.0,723,5.5,0.80%,15,EU,France
+Kenedy,Chelsea,21,LB,defender,7.0,566,5.0,0.10%,3,Americas,Brazil
+Eduardo Carvalho,Chelsea,34,LW,attacker,0.05,467,5.0,0.10%,0,EU,Portugal
+Antonio Rudiger,Chelsea,24,CB,defender,25.0,454,6.0,6.40%,0,EU,Germany
+Tiemoue Bakayoko,Chelsea,22,DM,midfielder,16.0,1011,5.0,1.60%,0,EU,France
+Wilfried Zaha,Crystal+Palace,24,RW,attacker,18.0,1709,7.0,20.90%,149,Rest Of World,Cote d'Ivoire
+Christian Benteke,Crystal+Palace,26,CF,attacker,28.0,1661,8.0,10.50%,136,EU,Belgium
+Andros Townsend,Crystal+Palace,26,RW,attacker,12.0,693,6.0,2.70%,116,England,England
+Patrick van Aanholt,Crystal+Palace,26,LB,defender,9.0,524,5.5,4.20%,98,EU,Netherlands
+James McArthur,Crystal+Palace,29,CM,midfielder,7.0,216,4.5,10.90%,93,EU,Scotland
+Wayne Hennessey,Crystal+Palace,30,GK,goalkeeper,4.0,242,4.5,2.10%,92,EU,Wales
+Jason Puncheon,Crystal+Palace,31,AM,attacker,5.5,427,5.0,1.20%,92,England,England
+Yohan Cabaye,Crystal+Palace,31,CM,midfielder,15.0,456,5.5,1.40%,91,EU,France
+Joel Ward,Crystal+Palace,27,RB,defender,5.0,154,5.0,0.60%,86,England,England
+James Tomkins,Crystal+Palace,28,CB,defender,7.0,208,4.5,2.00%,75,England,England
+Scott Dann,Crystal+Palace,30,CB,defender,5.0,217,5.0,1.10%,61,England,England
+Damien Delaney,Crystal+Palace,36,CB,defender,1.0,195,4.5,0.60%,51,EU,Ireland
+Jeffrey Schlupp,Crystal+Palace,24,LB,defender,8.0,385,5.0,0.30%,47,Rest Of World,Ghana
+Martin Kelly,Crystal+Palace,27,RB,defender,3.0,210,4.5,0.30%,46,England,England
+Luka Milivojevic,Crystal+Palace,26,DM,midfielder,10.0,407,5.0,0.20%,42,EU,Serbia
+Lee Chung-yong,Crystal+Palace,29,RW,attacker,1.5,327,4.5,0.10%,24,Rest Of World,South Korea
+Connor Wickham,Crystal+Palace,24,CF,attacker,6.0,248,5.5,0.00%,18,England,England
+Bakary Sako,Crystal+Palace,29,LW,attacker,6.0,226,5.0,0.10%,7,Rest Of World,Mali
+Pape Souare,Crystal+Palace,27,LB,defender,6.0,186,4.5,0.00%,6,Rest Of World,Senegal
+Ruben Loftus-Cheek,Crystal+Palace,21,CM,midfielder,5.0,685,4.5,16.40%,6,England,England
+Julian Speroni,Crystal+Palace,38,GK,goalkeeper,0.25,188,4.0,2.00%,0,Americas,Argentina
+Ross Barkley,Everton,23,AM,attacker,25.0,1413,7.5,0.70%,144,England,England
+Leighton Baines,Everton,32,LB,defender,12.0,491,6.0,10.00%,135,England,England
+Seamus Coleman,Everton,28,RB,defender,17.0,843,6.5,0.40%,133,EU,Ireland
+Ashley Williams,Everton,32,CB,defender,8.0,599,5.5,4.70%,127,EU,Wales
+Kevin Mirallas,Everton,29,RW,attacker,13.0,417,6.5,3.20%,119,EU,Belgium
+Michael Keane,Everton,24,CB,defender,18.0,1362,5.5,13.10%,113,England,England
+Phil Jagielka,Everton,34,CB,defender,2.0,566,5.0,6.30%,104,England,England
+Jordan Pickford,Everton,23,GK,goalkeeper,15.0,719,5.0,14.60%,102,England,England
+Joel Robles,Everton,27,GK,goalkeeper,5.0,304,4.5,0.40%,89,EU,Spain
+Idrissa Gueye,Everton,27,CM,midfielder,18.0,705,5.0,1.30%,80,Rest Of World,Senegal
+Wayne Rooney,Everton,31,SS,attacker,15.0,7664,7.5,20.90%,76,England,England
+Ramiro Funes Mori,Everton,26,CB,defender,12.0,460,5.0,0.10%,69,Americas,Argentina
+Maarten Stekelenburg,Everton,34,GK,goalkeeper,2.0,623,4.5,0.30%,68,EU,Netherlands
+Gareth Barry,Everton,36,DM,midfielder,1.5,1331,4.5,1.70%,68,England,England
+Tom Davies,Everton,19,CM,midfielder,8.0,1354,5.5,1.00%,63,England,England
+Mason Holgate,Everton,20,CB,defender,5.0,344,4.5,2.90%,54,England,England
+Yannick Bolasie,Everton,28,LW,attacker,20.0,896,6.5,0.20%,45,Rest Of World,Congo DR
+Morgan Schneiderlin,Everton,27,DM,midfielder,22.0,1272,5.0,0.90%,37,EU,France
+Cuco Martina,Everton,27,RB,defender,2.0,232,4.5,0.40%,31,EU,Curacao
+James McCarthy,Everton,26,CM,midfielder,15.0,306,5.0,0.10%,23,EU,Ireland
+Aaron Lennon,Everton,30,RW,attacker,5.0,504,5.5,0.20%,22,England,England
+Dominic Calvert-Lewin,Everton,20,SS,attacker,3.5,343,5.0,0.30%,17,England,England
+Ademola Lookman,Everton,19,LW,attacker,5.0,1387,5.5,0.30%,16,England,England
+Matthew Pennington,Everton,22,CB,defender,0.5,219,4.0,1.70%,9,England,England
+Jonjoe Kenny,Everton,20,RB,defender,0.25,53,4.5,0.20%,1,England,England
+Muhamed Besic,Everton,24,DM,midfielder,5.0,238,4.5,0.20%,0,EU,Germany
+Davy Klaassen,Everton,24,AM,attacker,18.0,428,7.5,3.60%,0,EU,Netherlands
+Sandro Ramirez,Everton,22,CF,attacker,10.0,373,7.5,2.10%,0,EU,Spain
+Joel Coleman,Huddersfield,21,GK,goalkeeper,0.25,36,4.0,2.40%,0,England,England
+Jonas Lossl,Huddersfield,28,GK,goalkeeper,1.5,56,4.5,0.50%,0,EU,Denmark
+Christopher Schindler,Huddersfield,27,CB,defender,2.0,73,4.5,0.90%,0,EU,Germany
+Chris Lowe,Huddersfield,28,LB,defender,1.5,84,4.5,0.70%,0,EU,Germany
+Tommy Smith,Huddersfield,25,RB,defender,2.0,65,5.0,1.10%,0,England,England
+Michael Hefele,Huddersfield,26,CB,defender,1.5,116,4.5,0.20%,0,EU,Germany
+Martin Cranie,Huddersfield,30,CB,defender,0.5,67,4.0,1.40%,0,England,England
+Jon Gorenc Stankovic,Huddersfield,21,CB,defender,0.5,83,4.0,1.10%,0,EU,Slovenia
+Mark Hudson,Huddersfield,35,CB,defender,0.5,70,4.0,1.40%,0,England,England
+Mathias Jorgensen,Huddersfield,27,CB,defender,2.5,107,4.5,0.20%,0,EU,Denmark
+Scott Malone,Huddersfield,26,LB,defender,0.75,81,4.5,0.10%,0,England,England
+Aaron Mooy,Huddersfield,26,CM,midfielder,5.0,588,5.5,2.50%,0,Rest Of World,Australia
+Rajiv van La Parra,Huddersfield,26,LW,attacker,2.0,174,5.0,0.30%,0,EU,Netherlands
+Jonathan Hogg,Huddersfield,28,CM,midfielder,1.0,75,4.5,0.30%,0,England,England
+Philip Billing,Huddersfield,21,CM,midfielder,0.5,157,4.5,0.10%,0,EU,Denmark
+Joe Lolley,Huddersfield,24,RW,attacker,0.25,63,4.5,0.10%,0,England,England
+Jack Payne,Huddersfield,25,CM,midfielder,0.25,81,4.5,0.10%,0,England,England
+Dean Whitehead,Huddersfield,35,CM,midfielder,0.25,161,4.5,0.10%,0,England,England
+Harry Bunn,Huddersfield,24,LW,attacker,0.5,85,4.5,0.10%,0,England,England
+Sean Scannell,Huddersfield,26,RW,attacker,0.5,85,4.5,0.10%,0,EU,Ireland
+Elias Kachunga,Huddersfield,25,RW,attacker,3.5,231,6.0,0.60%,0,Rest Of World,Congo DR
+Tom Ince,Huddersfield,25,RW,attacker,7.0,512,6.0,2.60%,0,England,England
+Kasey Palmer,Huddersfield,20,AM,attacker,0.75,220,5.5,0.20%,0,England,England
+Andy Williams,Huddersfield,26,CB,defender,0.65,3,5.0,0.10%,0,Americas,Trinidad and Tobago
+Nahki Wells,Huddersfield,27,CF,attacker,5.0,247,5.0,0.60%,0,Americas,Bermuda
+Collin Quaner,Huddersfield,26,CF,attacker,1.0,126,4.5,1.60%,0,EU,Germany
+Laurent Depoitre,Huddersfield,28,CF,attacker,3.0,212,5.5,0.30%,0,EU,Belgium
+Steve Mounie,Huddersfield,22,CF,attacker,5.5,56,6.0,0.60%,0,Rest of World,Benin
+Jamie Vardy,Leicester+City,30,CF,attacker,15.0,2988,8.5,1.50%,161,England,England
+Riyad Mahrez,Leicester+City,26,RW,attacker,30.0,1753,8.5,1.70%,120,Rest Of World,Algeria
+Kasper Schmeichel,Leicester+City,30,GK,goalkeeper,10.0,1601,5.0,2.40%,109,EU,Denmark
+Christian Fuchs,Leicester+City,31,LB,defender,6.0,417,5.0,3.50%,104,EU,Austria
+Marc Albrighton,Leicester+City,27,LM,midfielder,6.0,347,5.5,1.10%,95,England,England
+Robert Huth,Leicester+City,32,CB,defender,5.0,748,5.0,0.60%,88,EU,Germany
+Danny Simpson,Leicester+City,30,RB,defender,5.0,428,4.5,5.50%,85,England,England
+Islam Slimani,Leicester+City,29,CF,attacker,25.0,1581,7.0,0.70%,83,Rest Of World,Algeria
+Harry Maguire,Leicester+City,24,CB,defender,8.0,488,5.0,1.50%,71,England,England
+Danny Drinkwater,Leicester+City,27,CM,midfielder,9.0,714,5.0,0.20%,69,England,England
+Wes Morgan,Leicester+City,33,CB,defender,3.0,649,4.5,3.30%,63,Americas,Jamaica
+Shinji Okazaki,Leicester+City,31,CF,attacker,7.0,607,5.5,1.20%,63,Rest Of World,Japan
+Wilfred Ndidi,Leicester+City,20,DM,midfielder,14.0,821,5.0,0.50%,59,Rest Of World,Nigeria
+Demarai Gray,Leicester+City,21,LW,attacker,9.0,593,5.5,1.10%,58,England,England
+Daniel Amartey,Leicester+City,22,DM,midfielder,5.0,356,4.5,0.30%,53,Rest Of World,Ghana
+Andy King,Leicester+City,28,CM,midfielder,3.0,327,4.5,0.70%,41,EU,Wales
+Ahmed Musa,Leicester+City,24,CF,attacker,17.0,742,6.5,1.50%,39,Rest Of World,Nigeria
+Yohan Benalouane,Leicester+City,30,CB,defender,1.0,305,4.5,0.10%,27,Rest Of World,Tunisia
+Leonardo Ulloa,Leicester+City,30,CF,attacker,6.0,472,5.0,0.20%,24,EU,Argentina
+Ben Chilwell,Leicester+City,20,LB,defender,2.5,288,4.5,0.80%,19,England,England
+Nampalys Mendy,Leicester+City,25,DM,midfielder,10.0,325,4.5,0.10%,6,EU,France
+Ben Hamer,Leicester+City,29,GK,goalkeeper,0.5,132,4.5,0.10%,0,England,England
+Molla Wague,Leicester+City,26,CB,defender,1.5,171,4.5,0.00%,0,Rest Of World,Mali
+Vicente Iborra,Leicester+City,29,DM,midfielder,9.0,253,6.0,0.80%,0,EU,Spain
+Roberto Firmino,Liverpool,25,SS,attacker,38.0,2196,8.5,20.30%,180,Americas,Brazil
+Philippe Coutinho,Liverpool,25,AM,attacker,45.0,2958,9.0,30.80%,171,Americas,Brazil
+Sadio Mane,Liverpool,25,LW,attacker,40.0,3219,9.5,5.30%,156,Rest Of World,Senegal
+Georginio Wijnaldum,Liverpool,26,CM,midfielder,28.0,1280,7.0,7.10%,149,EU,Netherlands
+James Milner,Liverpool,31,CM,midfielder,12.0,1824,6.5,10.40%,139,England,England
+Adam Lallana,Liverpool,29,AM,attacker,25.0,1808,7.5,6.40%,139,England,England
+Nathaniel Clyne,Liverpool,26,RB,defender,21.0,602,5.5,4.50%,129,England,England
+Simon Mignolet,Liverpool,29,GK,goalkeeper,12.0,721,5.0,1.60%,110,EU,Belgium
+Dejan Lovren,Liverpool,28,CB,defender,17.0,708,5.5,1.30%,106,EU,Croatia
+Emre Can,Liverpool,23,DM,midfielder,15.0,1253,5.0,6.60%,104,EU,Germany
+Joel Matip,Liverpool,25,CB,defender,25.0,1313,5.5,2.30%,97,EU,Cameroon
+Divock Origi,Liverpool,22,CF,attacker,12.0,1092,7.5,0.40%,96,EU,Belgium
+Jordan Henderson,Liverpool,27,CM,midfielder,28.0,1236,5.5,1.80%,73,England,England
+Daniel Sturridge,Liverpool,27,CF,attacker,20.0,2042,8.0,4.30%,54,England,England
+Lucas Leiva,Liverpool,30,DM,midfielder,7.0,998,4.5,0.30%,47,Americas,Brazil
+Ragnar Klavan,Liverpool,31,CB,defender,3.5,875,4.5,0.40%,43,EU,Estonia
+Mamadou Sakho,Liverpool,27,CB,defender,15.0,934,5.0,0.10%,35,EU,France
+Loris Karius,Liverpool,24,GK,goalkeeper,8.0,1255,5.0,0.20%,32,EU,Germany
+Trent Alexander-Arnold,Liverpool,18,RB,defender,1.5,327,4.5,0.30%,15,EU,England
+Alberto Moreno,Liverpool,25,LB,defender,10.0,397,4.5,0.30%,8,EU,Spain
+Ben Woodburn,Liverpool,17,LW,attacker,1.5,1241,4.5,0.10%,5,England,Wales
+Marko Grujic,Liverpool,21,CM,midfielder,5.0,615,4.5,0.20%,4,EU,Serbia
+Joe Gomez,Liverpool,20,CB,defender,4.0,460,4.5,0.40%,0,England,England
+Sheyi Ojo,Liverpool,20,LW,attacker,2.0,383,5.0,0.10%,0,England,England
+Mohamed Salah,Liverpool,25,RW,attacker,35.0,1117,9.0,12.40%,0,Rest Of World,Egypt
+Danny Ings,Liverpool,24,CF,attacker,8.0,748,5.5,0.10%,0,England,England
+Dominic Solanke,Liverpool,19,CF,attacker,2.0,671,5.0,2.00%,0,England,England
+Kevin De Bruyne,Manchester+City,26,AM,attacker,65.0,2252,10.0,17.50%,199,EU,Belgium
+Sergio Aguero,Manchester+City,29,CF,attacker,65.0,4046,11.5,9.70%,175,Americas,Argentina
+Raheem Sterling,Manchester+City,22,LW,attacker,45.0,2074,8.0,3.80%,149,England,England
+Kyle Walker,Manchester+City,27,RB,defender,30.0,1008,6.5,18.50%,142,England,England
+David Silva,Manchester+City,31,AM,attacker,30.0,1434,8.0,3.30%,130,EU,Spain
+Leroy Sane,Manchester+City,21,LW,attacker,35.0,2302,8.5,8.80%,105,EU,Germany
+Nicolas Otamendi,Manchester+City,29,CB,defender,30.0,621,5.5,3.30%,100,Americas,Argentina
+Aleksandar Kolarov,Manchester+City,31,LB,defender,10.0,633,5.5,1.10%,95,EU,Serbia
+Yaya Toure,Manchester+City,34,CM,midfielder,8.0,2318,6.5,2.50%,86,Rest Of World,Cote d'Ivoire
+Fernandinho,Manchester+City,32,DM,midfielder,18.0,595,5.0,0.80%,78,Americas,Brazil
+Claudio Bravo,Manchester+City,34,GK,goalkeeper,8.0,436,5.0,1.20%,73,Americas,Chile
+Gabriel Jesus,Manchester+City,20,CF,attacker,30.0,4254,10.5,15.20%,67,Americas,Brazil
+John Stones,Manchester+City,23,CB,defender,35.0,1078,5.5,2.30%,59,England,England
+Vincent Kompany,Manchester+City,31,CB,defender,22.0,935,6.0,6.60%,57,EU,Belgium
+Kelechi Iheanacho,Manchester+City,20,CF,attacker,15.0,1662,7.0,1.50%,52,Rest Of World,Nigeria
+Ilkay Gundogan,Manchester+City,26,CM,midfielder,30.0,1586,5.5,1.00%,41,EU,Germany
+Fernando,Manchester+City,32,DM,midfielder,18.0,338,4.5,0.40%,18,Americas,Brazil
+Fabian Delph,Manchester+City,27,CM,midfielder,8.0,520,4.5,0.40%,13,England,England
+Ederson Moraes,Manchester+City,23,GK,goalkeeper,22.0,297,5.5,4.50%,0,Americas,Brazil
+Bernardo Silva,Manchester+City,22,RW,attacker,40.0,1098,8.0,4.60%,0,EU,Portugal
+Romelu Lukaku,Manchester+United,24,CF,attacker,50.0,3727,11.5,45.00%,221,EU,Belgium
+David de Gea,Manchester+United,26,GK,goalkeeper,40.0,2126,5.5,26.10%,136,EU,Spain
+Antonio Valencia,Manchester+United,31,RB,defender,10.0,1561,6.5,6.20%,120,Americas,Ecuador
+Paul Pogba,Manchester+United,24,CM,midfielder,75.0,7435,8.0,19.50%,115,EU,France
+Eric Bailly,Manchester+United,23,CB,defender,30.0,1588,6.0,10.20%,105,Rest Of World,Cote d'Ivoire
+Juan Mata,Manchester+United,29,AM,attacker,30.0,2280,7.0,3.50%,102,EU,Spain
+Daley Blind,Manchester+United,27,LB,defender,22.0,867,5.5,1.20%,98,EU,Netherlands
+Ander Herrera,Manchester+United,27,CM,midfielder,30.0,1603,5.5,7.70%,97,EU,Spain
+Anthony Martial,Manchester+United,21,CF,attacker,30.0,2430,8.0,0.60%,95,EU,France
+Marcos Rojo,Manchester+United,27,CB,defender,18.0,1063,5.5,0.10%,77,Americas,Argentina
+Marcus Rashford,Manchester+United,19,CF,attacker,18.0,3668,7.5,4.80%,76,England,England
+Henrikh Mkhitaryan,Manchester+United,28,AM,attacker,35.0,3312,8.0,4.50%,73,Rest Of World,Armenia
+Matteo Darmian,Manchester+United,27,RB,defender,12.0,1640,5.5,0.30%,70,EU,Italy
+Jesse Lingard,Manchester+United,24,LW,attacker,12.0,1939,6.0,0.70%,60,England,England
+Phil Jones,Manchester+United,25,CB,defender,14.0,808,5.0,0.40%,55,England,England
+Chris Smalling,Manchester+United,27,CB,defender,18.0,834,5.5,1.30%,52,England,England
+Marouane Fellaini,Manchester+United,29,CM,midfielder,12.0,1498,5.0,0.20%,48,EU,Belgium
+Luke Shaw,Manchester+United,22,LB,defender,20.0,947,5.0,0.40%,45,England,England
+Michael Carrick,Manchester+United,35,DM,midfielder,1.5,1789,4.5,1.80%,42,England,England
+Ashley Young,Manchester+United,32,LM,midfielder,5.0,936,5.0,0.00%,26,England,England
+Sergio Romero,Manchester+United,30,GK,goalkeeper,6.0,849,5.0,0.20%,23,Americas,Argentina
+Axel Tuanzebe,Manchester+United,19,CB,defender,1.0,279,4.0,1.70%,14,England,England
+Timothy Fosu-Mensah,Manchester+United,19,DM,midfielder,2.5,860,4.5,0.20%,9,EU,Netherlands
+Joel Castro Pereira,Manchester+United,21,GK,goalkeeper,0.1,395,4.0,1.00%,6,EU,Portugal
+Victor Lindelof,Manchester+United,23,CB,defender,22.0,950,5.5,17.00%,0,EU,Sweden
+Rob Elliot,Newcastle+United,31,GK,goalkeeper,1.0,134,4.0,13.50%,0,EU,Ireland
+Karl Darlow,Newcastle+United,26,GK,goalkeeper,4.5,235,4.5,1.10%,0,England,England
+DeAndre Yedlin,Newcastle+United,24,RB,defender,5.0,764,4.5,5.20%,0,Americas,United States
+Ciaran Clark,Newcastle+United,27,CB,defender,5.0,273,4.5,0.90%,0,EU,Ireland
+Lascelles,Newcastle+United,27,CB,defender,5.0,400,4.5,3.60%,0,England,England
+Paul Dummett,Newcastle+United,25,LB,defender,3.5,177,4.5,1.00%,0,EU,Wales
+Grant Hanley,Newcastle+United,25,CB,defender,4.5,265,4.0,2.50%,0,EU,Scotland
+Jesus Gamez,Newcastle+United,32,RB,defender,2.5,186,4.0,2.30%,0,EU,Spain
+Florian Lejeune,Newcastle+United,26,CB,defender,5.0,65,4.5,1.00%,0,EU,France
+Massadio Haidara,Newcastle+United,24,LB,defender,1.5,114,4.0,0.50%,0,EU,France
+Matt Ritchie,Newcastle+United,27,RM,midfielder,9.0,566,6.0,4.20%,0,EU,Scotland
+Jonjo Shelvey,Newcastle+United,25,CM,midfielder,11.0,747,5.5,2.50%,0,England,England
+Mohamed Diame,Newcastle+United,30,CM,midfielder,6.0,339,5.0,0.50%,0,Rest Of World,Senegal
+Jack Colback,Newcastle+United,27,DM,midfielder,5.0,181,4.5,1.10%,0,England,England
+Christian Atsu,Newcastle+United,25,RW,attacker,5.0,641,5.0,2.10%,0,Rest Of World,Ghana
+Siem de Jong,Newcastle+United,28,AM,attacker,5.5,341,5.0,0.10%,0,EU,Netherlands
+Rolando Aarons,Newcastle+United,21,LW,attacker,0.75,170,4.5,0.10%,0,England,England
+Dwight Gayle,Newcastle+United,26,CF,attacker,10.0,1351,6.5,11.40%,0,England,England
+Ayoze Perez,Newcastle+United,23,SS,attacker,8.0,368,5.5,1.60%,0,EU,Spain
+Aleksandar Mitrovic,Newcastle+United,22,CF,attacker,10.0,781,5.0,2.50%,0,EU,Serbia
+Daryl Murphy,Newcastle+United,34,CF,attacker,1.5,541,4.5,2.80%,0,EU,Ireland
+Fraser Forster,Southampton,29,GK,goalkeeper,15.0,548,5.0,7.30%,134,England,England
+Nathan Redmond,Southampton,23,RW,attacker,15.0,706,6.5,11.30%,126,England,England
+Ryan Bertrand,Southampton,27,LB,defender,20.0,578,5.5,11.20%,123,England,England
+DuÅ¡an TadiÄ‡,Southampton,28,LW,attacker,17.0,458,6.5,4.90%,108,EU,Portugal
+Cedric Soares,Southampton,25,RB,defender,15.0,338,5.0,16.40%,102,EU,Portugal
+James Ward-Prowse,Southampton,22,CM,midfielder,15.0,416,5.5,2.20%,92,England,England
+Oriol Romeu,Southampton,25,DM,midfielder,10.0,476,4.5,4.20%,80,EU,Spain
+Maya Yoshida,Southampton,28,CB,defender,5.0,317,5.0,1.10%,78,Rest Of World,Japan
+Steven Davis,Southampton,32,CM,midfielder,6.0,310,5.0,0.20%,77,EU,Northern Ireland
+Virgil van Dijk,Southampton,26,CB,defender,30.0,1102,5.5,4.00%,75,EU,Netherlands
+Charlie Austin,Southampton,28,CF,attacker,13.0,874,6.5,2.10%,62,England,England
+Jack Stephens,Southampton,23,CB,defender,3.5,249,5.0,0.40%,60,England,England
+Shane Long,Southampton,30,CF,attacker,9.0,703,6.0,0.30%,57,EU,Ireland
+Sofiane Boufal,Southampton,23,AM,attacker,15.0,590,6.0,0.30%,40,Rest Of World,Morocco
+Jordy Clasie,Southampton,26,DM,midfielder,10.0,201,4.5,0.40%,38,EU,Netherlands
+Pierre-Emile Hojbjerg,Southampton,21,CM,midfielder,8.0,368,4.5,0.40%,38,EU,Denmark
+Manolo Gabbiadini,Southampton,25,CF,attacker,15.0,2012,7.0,5.20%,38,EU,Italy
+Sam McQueen,Southampton,22,LM,midfielder,0.75,221,4.5,0.10%,23,England,England
+Matt Targett,Southampton,21,LB,defender,3.0,110,4.5,0.20%,12,England,England
+Josh Sims,Southampton,20,RW,attacker,0.5,126,4.5,0.10%,12,England,England
+Jeremy Pied,Southampton,28,RM,midfielder,3.5,136,4.5,0.10%,5,EU,France
+Jason McCarthy,Southampton,21,CB,defender,0.25,53,4.5,0.10%,0,England,England
+Jan Bednarek,Southampton,21,CB,defender,0.5,9,4.5,0.40%,0,EU,Poland
+Joe Allen,Stoke+City,27,CM,midfielder,15.0,523,5.5,6.00%,118,EU,Wales
+Marko ArnautoviÄ‡,Stoke+City,28,LW,attacker,15.0,579,7.0,0.70%,117,England,England
+Lee Grant,Stoke+City,34,GK,goalkeeper,1.0,480,4.5,1.20%,106,England,England
+Erik Pieters,Stoke+City,28,LB,defender,7.0,134,5.0,1.30%,103,EU,Netherlands
+Steven Fletcher,Stoke+City,30,CF,attacker,3.0,522,5.0,1.00%,103,EU,Scotland
+Ryan Shawcross,Stoke+City,29,CB,defender,11.0,281,5.0,1.00%,94,EU,England
+Xherdan Shaqiri,Stoke+City,25,RW,attacker,15.0,1000,6.0,3.20%,80,EU,Switzerland
+Peter Crouch,Stoke+City,36,CF,attacker,1.5,2656,5.0,2.90%,79,England,England
+Glenn Whelan,Stoke+City,33,DM,midfielder,2.5,182,4.5,0.40%,62,EU,Ireland
+Charlie Adam,Stoke+City,31,CM,midfielder,3.5,561,5.0,0.10%,59,EU,Scotland
+Geoff Cameron,Stoke+City,32,CB,defender,3.0,260,4.5,0.50%,58,Rest Of World,United States
+Glen Johnson,Stoke+City,32,RB,defender,5.0,512,4.5,0.80%,56,England,England
+Mame Biram Diouf,Stoke+City,29,CF,attacker,7.0,310,5.5,0.40%,51,Rest Of World,Senegal
+Ramadan Sobhi,Stoke+City,20,LW,attacker,5.0,461,5.0,1.10%,36,Rest Of World,Egypt
+Marc Muniesa,Stoke+City,25,CB,defender,3.0,172,4.5,0.20%,34,EU,Spain
+Bojan KrkiÄ‡,Stoke+City,26,SS,attacker,5.0,1325,5.5,0.20%,30,EU,Spain
+Phil Bardsley,Stoke+City,32,RB,defender,1.5,365,4.5,0.00%,27,EU,Scotland
+Saido Berahino,Stoke+City,23,CF,attacker,15.0,841,6.0,0.80%,26,England,England
+Giannelli Imbula,Stoke+City,24,DM,midfielder,12.0,238,4.5,0.20%,24,EU,France
+Jack Butland,Stoke+City,24,GK,goalkeeper,15.0,402,5.0,2.80%,20,England,England
+Ibrahim Afellay,Stoke+City,31,LM,midfielder,3.0,461,5.0,0.00%,15,EU,Netherlands
+Josh Tymon,Stoke+City,18,LB,defender,1.0,120,4.5,0.10%,9,England,England
+Gylfi Sigurdsson,Swansea,27,AM,attacker,25.0,861,8.5,8.70%,181,EU,Iceland
+Fernando Llorente,Swansea,32,CF,attacker,6.0,1423,7.5,0.70%,146,EU,Spain
+Åukasz FabiaÅ„ski,Swansea,32,GK,goalkeeper,9.0,285,4.5,6.20%,116,EU,Poland
+Leroy Fer,Swansea,27,CM,midfielder,8.0,411,5.5,0.60%,95,EU,Netherlands
+Alfie Mawson,Swansea,23,CB,defender,6.0,509,5.0,1.80%,94,England,England
+Kyle Naughton,Swansea,28,RB,defender,5.0,170,4.5,2.00%,82,England,England
+Wayne Routledge,Swansea,32,LW,attacker,2.5,264,5.5,0.10%,74,England,England
+Federico Fernandez,Swansea,28,CB,defender,9.0,116,4.5,0.40%,63,Americas,Argentina
+Martin Olsson,Swansea,29,LB,defender,5.0,458,5.0,0.30%,52,EU,Sweden
+Tom Carroll,Swansea,25,CM,midfielder,6.0,432,4.5,4.30%,52,England,England
+Ki Sung-yueng,Swansea,28,DM,midfielder,7.0,478,5.0,0.00%,41,Rest Of World,South Korea
+Jordan Ayew,Swansea,25,CF,attacker,7.5,676,5.0,2.00%,39,Rest Of World,Ghana
+Modou Barrow,Swansea,24,RW,attacker,3.0,437,5.0,0.10%,34,Rest Of World,The Gambia
+Leon Britton,Swansea,34,CM,midfielder,1.0,218,4.5,0.10%,32,England,England
+Stephen Kingsley,Swansea,22,LB,defender,0.75,168,4.5,0.20%,29,EU,Scotland
+Afa Ngengel Rangel,Swansea,34,RB,defender,1.0,137,4.0,18.80%,26,EU,Spain
+Luciano Narsingh,Swansea,26,RW,attacker,5.0,448,5.0,0.10%,25,EU,Netherlands
+Jay Fulton,Swansea,23,CM,midfielder,0.5,104,4.5,0.10%,19,EU,Scotland
+Jefferson Montero,Swansea,27,LW,attacker,4.5,187,5.0,0.10%,18,Americas,Ecuador
+Mike van der Hoorn,Swansea,24,CB,defender,2.0,154,4.5,0.10%,16,EU,Netherlands
+Nathan Dyer,Swansea,29,RW,attacker,3.5,313,4.5,0.10%,12,England,England
+Oliver McBurnie,Swansea,21,CF,attacker,0.25,149,4.5,0.70%,5,EU,Scotland
+Kristoffer Nordfeldt,Swansea,28,GK,goalkeeper,1.5,82,4.0,1.70%,3,EU,Sweden
+Roque Mesa,Swansea,28,CM,midfielder,12.0,110,4.5,0.90%,0,EU,Spain
+Tammy Abraham,Swansea,19,CF,attacker,8.0,1227,5.5,3.30%,0,England,England
+Dele Alli,Tottenham,21,CM,midfielder,45.0,4626,9.5,38.60%,225,England,England
+Harry Kane,Tottenham,23,CF,attacker,60.0,4161,12.5,35.10%,224,England,England
+Christian Eriksen,Tottenham,25,AM,attacker,40.0,1130,9.5,12.00%,218,EU,Denmark
+Son Heung-min,Tottenham,25,LW,attacker,30.0,2185,8.0,1.60%,174,Rest Of World,South Korea
+Hugo Lloris,Tottenham,30,GK,goalkeeper,24.0,847,5.5,12.60%,143,EU,France
+Jan Vertonghen,Tottenham,30,CB,defender,28.0,511,6.0,9.00%,126,EU,Belgium
+Toby Alderweireld,Tottenham,28,CB,defender,35.0,756,6.0,13.30%,120,EU,Belgium
+Victor Wanyama,Tottenham,26,DM,midfielder,25.0,1002,5.0,3.10%,103,Rest Of World,Kenya
+Eric Dier,Tottenham,23,DM,midfielder,25.0,1239,5.0,3.50%,93,England,England
+Ben Davies,Tottenham,24,LB,defender,12.0,396,5.5,1.80%,90,EU,Wales
+Danny Rose,Tottenham,27,LB,defender,28.0,848,6.5,0.60%,84,England,England
+Mousa Dembele,Tottenham,30,CM,midfielder,18.0,1161,5.0,1.80%,76,EU,Belgium
+Vincent Janssen,Tottenham,23,CF,attacker,13.0,1135,7.5,0.10%,55,EU,Netherlands
+Kieran Trippier,Tottenham,26,RB,defender,10.0,525,5.5,17.30%,51,England,England
+Moussa Sissokho,Tottenham,27,CM,midfielder,20.0,1162,5.5,0.30%,43,EU,France
+Harry Winks,Tottenham,21,CM,midfielder,4.0,806,5.0,0.00%,30,England,England
+Erik Lamela,Tottenham,25,RW,attacker,25.0,672,6.5,0.10%,28,Americas,Argentina
+Michel Vorm,Tottenham,33,GK,goalkeeper,4.0,252,5.0,0.10%,17,EU,Netherlands
+Georges Kevin NKoudou,Tottenham,22,LW,attacker,7.0,510,5.5,0.10%,8,EU,France
+Kevin Wimmer,Tottenham,24,CB,defender,7.0,355,4.5,0.30%,2,EU,Austria
+Afae Cupun Capoue,Watford,29,DM,midfielder,9.0,412,5.5,8.00%,131,EU,France
+Troy Deeney,Watford,29,CF,attacker,11.0,1141,6.5,3.40%,130,England,England
+Heurelho Gomes,Watford,36,GK,goalkeeper,1.0,439,4.5,2.20%,113,Americas,Brazil
+Jose Holebas,Watford,33,LB,defender,2.0,345,5.0,0.60%,87,EU,Greece
+Miguel Britos,Watford,32,CB,defender,3.5,131,4.5,0.60%,71,Americas,Uruguay
+Sebastian Prodl,Watford,30,CB,defender,4.0,169,4.5,0.80%,67,EU,Austria
+Nordin Amrabat,Watford,30,LW,attacker,4.5,295,5.0,0.10%,65,Rest Of World,Morocco
+Youn Kaboul,Watford,31,CB,defender,2.5,263,4.5,0.10%,57,EU,France
+Tom Cleverley,Watford,27,CM,midfielder,8.0,703,5.0,0.20%,55,England,England
+Daryl Janmaat,Watford,27,RB,defender,7.0,242,5.0,0.30%,50,EU,Netherlands
+Valon Behrami,Watford,32,DM,midfielder,2.5,237,4.5,0.40%,48,EU,Switzerland
+Roberto Pereyra,Watford,26,AM,attacker,15.0,398,6.0,0.10%,43,Americas,Argentina
+Stefano Okaka,Watford,27,CF,attacker,6.0,708,5.5,0.20%,43,EU,Italy
+Abdoulaye Doucoure,Watford,24,CM,midfielder,6.0,124,5.0,0.00%,38,EU,France
+Kabasele,Watford,26,CB,defender,5.5,177,4.5,0.20%,35,EU,Belgium
+Craig Cathcart,Watford,28,CB,defender,4.0,128,4.5,0.00%,31,EU,Northern Ireland
+Isaac Success,Watford,21,LW,attacker,4.0,474,5.5,0.10%,28,Rest Of World,Nigeria
+Adrian Mariappa,Watford,30,CB,defender,1.0,201,4.0,5.40%,15,Americas,Jamaica
+Nathaniel Chalobah,Watford,22,DM,midfielder,5.0,977,4.5,2.30%,12,England,England
+Mauro Zarate,Watford,30,SS,attacker,2.0,473,5.5,0.00%,8,Americas,Argentina
+Costel Pantilimon,Watford,30,GK,goalkeeper,3.0,268,4.5,0.20%,2,EU,Romania
+Kiko Femenia,Watford,26,RB,defender,4.0,74,4.5,0.30%,0,EU,Spain
+Steven Berghuis,Watford,25,RW,attacker,5.5,164,5.0,0.10%,0,EU,Netherlands
+Will Hughes,Watford,22,CM,midfielder,8.0,258,5.0,0.60%,0,England,England
+Gareth McAuley,West+Brom,37,CB,defender,1.0,458,5.0,11.80%,131,EU,Northern Ireland
+Salomon Rondon,West+Brom,27,CF,attacker,15.0,502,6.5,2.00%,118,Americas,Venezuela
+Matt Phillips,West+Brom,26,RW,attacker,9.0,454,6.0,5.60%,115,EU,Scotland
+Ben Foster,West+Brom,34,GK,goalkeeper,4.0,484,4.5,20.70%,113,England,England
+Nacer Chadli,West+Brom,27,LW,attacker,15.0,570,6.0,2.40%,110,EU,Belgium
+Craig Dawson,West+Brom,27,RB,defender,6.0,215,5.0,6.00%,102,England,England
+Chris Brunt,West+Brom,32,LM,midfielder,4.0,242,5.5,0.80%,99,EU,Northern Ireland
+James Morrison,West+Brom,31,CM,midfielder,5.0,238,5.5,0.00%,84,EU,Scotland
+Jonny Evans,West+Brom,29,CB,defender,7.0,375,5.0,1.60%,79,EU,Northern Ireland
+Jake Livermore,West+Brom,27,DM,midfielder,7.0,564,5.0,0.20%,77,England,England
+Allan Nyom,West+Brom,29,RB,defender,4.5,236,5.0,0.30%,74,Rest Of World,Cameroon
+Jay Rodriguez,West+Brom,27,CF,attacker,10.0,472,6.0,2.90%,73,England,England
+Claudio Yacob,West+Brom,30,DM,midfielder,4.0,165,4.5,0.40%,54,Americas,Argentina
+James McClean,West+Brom,28,LW,attacker,3.0,454,5.0,0.20%,52,EU,Ireland
+Hal Robson-Kanu,West+Brom,28,LW,attacker,2.5,766,5.0,0.70%,52,EU,Wales
+Jonathan Leko,West+Brom,18,RW,attacker,1.5,169,4.5,0.20%,12,England,England
+Sam Field,West+Brom,19,CM,midfielder,0.25,15,4.5,0.10%,9,England,England
+Boaz Myhill,West+Brom,34,GK,goalkeeper,1.5,100,4.0,5.30%,0,EU,Wales
+Ahmed Hegazy,West+Brom,26,CB,defender,1.0,82,4.5,1.30%,0,Rest Of World,Egypt
+Robert Snodgrass,West+Ham,29,RW,attacker,8.0,1210,6.0,6.50%,133,EU,Scotland
+Manuel Lanzini,West+Ham,24,AM,attacker,15.0,493,7.0,7.20%,133,Americas,Argentina
+Michail Antonio,West+Ham,27,RW,attacker,18.0,1142,7.5,0.50%,132,England,England
+Winston Reid,West+Ham,29,CB,defender,10.0,338,5.0,0.40%,102,Rest Of World,New Zealand
+Jose Fonte,West+Ham,33,CB,defender,7.0,867,5.0,2.10%,98,EU,Portugal
+Andre Ayew,West+Ham,27,LW,attacker,18.0,845,7.0,3.40%,89,Rest Of World,Ghana
+Cheikhou Kouyate,West+Ham,27,DM,midfielder,12.0,284,5.0,0.10%,79,Rest Of World,Senegal
+Mark Noble,West+Ham,30,CM,midfielder,7.0,425,5.5,0.10%,71,England,England
+Darren Randolph,West+Ham,30,GK,goalkeeper,2.5,459,4.5,0.40%,69,EU,Ireland
+James Collins,West+Ham,33,CB,defender,2.0,187,4.5,0.90%,69,EU,Wales
+Andy Carroll,West+Ham,28,CF,attacker,10.0,1212,6.0,0.40%,69,England,England
+Adrian,West+Ham,30,GK,goalkeeper,8.0,266,4.5,0.80%,64,EU,Spain
+Aaron Cresswell,West+Ham,27,LB,defender,12.0,380,5.0,1.30%,60,England,England
+Pedro Obiang,West+Ham,25,CM,midfielder,9.0,286,4.5,0.30%,55,EU,Spain
+Sofiane Feghouli,West+Ham,27,RW,attacker,12.0,394,5.5,0.20%,55,Rest Of World,Algeria
+Angelo Ogbonna,West+Ham,29,CB,defender,9.0,247,4.5,1.10%,45,EU,Italy
+Pablo Zabaleta,West+Ham,32,RB,defender,7.0,698,5.0,2.70%,45,Americas,Argentina
+Edimilson Fernandes,West+Ham,21,CM,midfielder,5.0,288,4.5,0.40%,38,EU,Switzerland
+Arthur Masuaku,West+Ham,23,LB,defender,7.0,199,4.5,0.20%,34,Rest Of World,Congo DR
+Sam Byram,West+Ham,23,RB,defender,4.5,198,4.5,0.30%,29,England,England
+Ashley Fletcher,West+Ham,21,CF,attacker,1.0,412,4.5,5.90%,16,England,England
+Diafra Sakho,West+Ham,27,CF,attacker,10.0,214,5.5,0.10%,12,Rest Of World,Senegal
