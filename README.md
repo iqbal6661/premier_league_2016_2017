@@ -1,13 +1,13 @@
-Background: 
+**Background:**
 
 I am a data analyst who works in one of the best football leagues in the world, the English Premier League. My role is to analyze the entire lineups and teams participating in the Premier League Season 2017/18.
 
-Objective :
+**Objective :**
 
 To provide information to all viewers about player data and team data for the matches in the Premier League Season 2017/18.
 
 
-Problem Statements:
+**Problem Statements:**
 
 
 •	Who is the player with the highest market value? 
@@ -33,3 +33,7 @@ SMART Method :
 •	Relevant: As a data analyst, data preprocessing is crucial for analyzing Premier League data effectively. 
 
 •	Time-Bound: The required data pertains to the Premier League Season 2017/18.
+
+**Result :** 
+
+Get insight about team that play in Premier League 2016 / 2017
